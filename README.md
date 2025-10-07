@@ -1,4 +1,4 @@
-# Github demo re[po
+# Github demo repo
 
 This is the lab for github repo for machine learning
 
