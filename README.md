@@ -1,15 +1,17 @@
-# Github demo repo
+# My ML Model creations for customer car prediction based on multiple features
 
-This is the lab for github repo for machine learning
-
-This is modification for testing.
-
-# Project list
-
-** to make it bold **
-
-# Project objectives
+Developed mulitple models for a custoner predictions on buying car based on multiple features. Following operations are done for creating the model.
+1. Data Analysis
+2. Data Preprocessing
+3. Standardization and Normalization
+4. Feature scaling
+5. Selecting Different types of model and implementing on the featured data.
+6. Train the model
+7. Predict the model using test data
+8. Evaluate the model through Accuracy, RMSE, F1-score, Recall and cofusion matrix
+9. Visualization through different plots.
 
 # Resources
 
-data not available ( sensitive)
+Data not available ( sensitive)
+
