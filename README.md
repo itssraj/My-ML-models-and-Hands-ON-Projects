@@ -17,7 +17,9 @@ Data not available ( sensitive)
 
 # Hand-On Projects
 1. CloudMart Deployment
-**Overview**: I recently had the incredible opportunity to work on CloudMart, a modern e-commerce demo site designed for cloud technology education and hands-on learning. This project allowed me to explore the cutting-edge capabilities of AWS and Generative AI, and I am thrilled to share my experience!
+   
+    **Overview**: I recently had the incredible opportunity to work on CloudMart, a modern e-commerce demo site designed for cloud technology education and hands-on learning. This project allowed me to explore the cutting-edge capabilities of AWS and Generative AI, and I am thrilled to share my experience!
 
 2. AI Powered Private Chatbot
-**Overview**: This hands-on project showcases the complete setup of a private AI chatbot environment on a local machine, inspired by a comprehensive course on open-source model deployment. It walks through installing and running models like LLAMA 3 and Mistral using Ollama and Docker, enabling fully offline, secure AI interactions. The project covers model selection, prompt engineering, interface design, and prompt library configuration, with optional modules for integrating cloud-based APIs like ChatGPT, GPT-4, and DALL·E
+   
+    **Overview**: This hands-on project showcases the complete setup of a private AI chatbot environment on a local machine, inspired by a comprehensive course on open-source model deployment. It walks through installing and running models like LLAMA 3 and Mistral using Ollama and Docker, enabling fully offline, secure AI interactions. The project covers model selection, prompt engineering, interface design, and prompt library configuration, with optional modules for integrating cloud-based APIs like ChatGPT, GPT-4, and DALL·E
