@@ -1,6 +1,6 @@
 # My ML Model creations for customer car prediction based on multiple features
 
-Developed mulitple models for a customer predictions on buying car based on multiple features. Following operations are done for creating the model.
+Developed multiple models for a customer predictions on buying car based on multiple features. Following operations are done for creating the model.
 1. Data Analysis
 2. Data Preprocessing
 3. Standardization and Normalization
